@@ -1,0 +1,5 @@
+category,count(orders_details_id.qty)
+Classic,14579
+Supreme,11777
+Veggie,11449
+Chicken,10815
